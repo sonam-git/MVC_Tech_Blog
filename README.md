@@ -62,7 +62,7 @@ THEN I am able to delete or update my post and taken back to an updated dashboar
 WHEN I click on the logout option in the navigation
 THEN I am signed out of the site
 WHEN I am idle on the site for more than a set time
-THEN I am able to view comments but I am prompted to log in again before I can add, update, or delete comments
+THEN I am able to view comments but I am prompted to log in again before I can add, update, or delete posts
 ```
 
 
@@ -73,8 +73,8 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 1. Option: A) Account login: click on "login" in the navigation menu - enter Username and Password then click "Sign In" to proceed.
 1. Option: B) Account Sign Up: click on "Sign Up" in the navigation menu - once open, enter Username and Password then click "Sign Up" to proceed.
 2. Once you have an account, you can create blog posts and comment on other users' posts.
-3. Create a blog post: click on the "dashboard" option in the navigation menu and click "Add Post."
-4. Enter a title and contents for your Blog Contribution, then click "Create" to save and publish.
+3. Create a blog post: click on the "dashboard" option in the navigation menu and click "Create New Post."
+4. Enter a title and contents for your Blog Contribution, then click "Create Post" to save and publish.
 5. View existing blog posts by clicking on "Home" in the navigation menu.
 6. Comment: to view or "add a new comment" go to any blog post in the Home page, click on the title or icon near any blog post - title, you may view the comment history as well as add a new comments.
 7. Edit or delete your blog post: click on the "dashboard" option in the navigation menu and select the post you wish to edit or delete by clicking on the edit icon on the right side of the title or title itself.
