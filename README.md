@@ -140,7 +140,7 @@ Open the cloned (or downloaded) repository in any source code editor.
 3. Creating and using Express.js servers and routes.
 4. Using Handlebars.js to create and display dynamic templates.
 5. Implementing user authentication and password hashing with bcrypt.
-6. Using Bootstrap for styling and layout.
+6. Apply css for styling, which help to recall what we learned during first month of the class.
 
 ### Continued Development:
 1. Pagination for blog posts and comments.
