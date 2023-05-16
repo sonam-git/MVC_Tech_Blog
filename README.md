@@ -88,7 +88,27 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 [GitHub Repository:](https://github.com/sonam-git/MVC_Tech_Blog)
 
 ## Screenshots:
-### Figure 1. Screenshot
+### Figure 1. Home
+<img width="1380" alt="Screenshot 2023-05-15 at 5 55 22 PM" src="https://github.com/sonam-git/MVC_Tech_Blog/assets/89502092/b292c941-5a3e-482f-a197-b6a916620dd2">
+
+### Figure 2. Sign up
+<img width="1395" alt="Sign up" src="https://github.com/sonam-git/MVC_Tech_Blog/assets/89502092/f17a92d2-3e8a-4ddf-b5d8-96a9f275a171">
+
+### Figure 3. Login
+<img width="1415" alt="Log in" src="https://github.com/sonam-git/MVC_Tech_Blog/assets/89502092/51e55884-3b84-404f-89de-34d23645d48e">
+
+### Figure 4. Dashboard
+<img width="1365" alt="Screenshot 2023-05-15 at 5 54 58 PM" src="https://github.com/sonam-git/MVC_Tech_Blog/assets/89502092/231080d2-0ccf-4091-bf9c-28a0440576ba">
+
+### Figure 5. Create a Post
+![Screenshot 2023-05-15 at 5 56 18 PM](https://github.com/sonam-git/MVC_Tech_Blog/assets/89502092/714864d8-7e45-4cc1-aeb0-e56dd9796542)
+
+### Figure 6. Edit a Post
+![Screenshot 2023-05-15 at 5 56 36 PM](https://github.com/sonam-git/MVC_Tech_Blog/assets/89502092/845bfd4b-b81b-403d-a4fb-eff7af6f269d)
+
+### Figure 7. Add / View Comments
+![Screenshot 2023-05-15 at 5 56 00 PM](https://github.com/sonam-git/MVC_Tech_Blog/assets/89502092/e2d6703e-a090-468a-83f6-19a5a0057c66)
+
 
 ## Installation Process
 1. Clone the Repository from GitHub 
