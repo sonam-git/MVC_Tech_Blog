@@ -82,7 +82,7 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 9. You can only see the list of blog post unless you sign up or log into the app.
 
 ## Deployed Application Link:
-[Deployed Application Link:](https:herokuapp.com/)
+[Deployed Application Link:](https://sj-mvc.herokuapp.com)
 
 ## GitHub Repository:
 [GitHub Repository:](https://github.com/sonam-git/MVC_Tech_Blog)
